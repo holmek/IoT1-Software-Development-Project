@@ -27,8 +27,7 @@ For a comprehensive overview of the product, check out the [video](https://playe
 
 ### Executing Program
 
-* Run the server using Node.js for client interactions and data recording.
-* Open and edit the 3D model STL files using Draw.io for customization.
+* Run the server using python for client interactions and data recording.
 
 ## Help
 
